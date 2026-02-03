@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>My Personal Page</title>
+</head>
+<body>
+
+<header>
+<h1>[Your Name Here]</h1>
+</header>
+
+<main>
+<article>
+<h2>About Me</h2>
+<p>
+<em>Emphasis example:</em> I am really <em>passionate</em> about learning web development at Algonquin...
+</p>
+<p>
+I hope to master <abbr title="HyperText Markup Language">HTML</abbr> by the end of this term...
+</p>
+</article>
+
+<section>
+<blockquote>
+"The only way to do great work is to love what you do."
+<footer>— <cite>Steve Jobs</cite></footer>
+</blockquote>
+<p>This is my favorite quote<sup>1</sup>.</p> </section>
+</main>
+
+<footer>
+<p>&copy; 2026 [Your Name]. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
